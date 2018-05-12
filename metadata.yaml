@@ -1,0 +1,26 @@
+_repo: Reconocimiento-del-fuerte-del-Carmen-del-Rio-Negro_19106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cramer, Ambrosio
+    gutenberg_agent_id: '8469'
+    url: http://www.gutenberg.org/2009/agents/8469
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2006-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19106'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carmen de Patagones (Argentina)'
+- !lcc 'F2801'
+- !lcsh 'Negro River (Río Negro, Argentina)'
+title: Reconocimiento del fuerte del Carmen del Rio Negro
+url: http://www.gutenberg.org/ebooks/19106
